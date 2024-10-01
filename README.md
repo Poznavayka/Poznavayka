@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Poznavayka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m HAckerRel
+- 👀 I’m interested in Roblox and Gorilla Tag
+- 🌱 I’m currently learning Scripting
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me discord
 
 <!---
 Poznavayka/Poznavayka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
